@@ -3,7 +3,7 @@ import {AddItemCommand} from '../commands/AddItemCommand';
 import {RemoveItemCommand} from '../commands/RemoveItemCommand';
 import {ClearCartCommand} from '../commands/ClearCartCommand';
 import {ShoppingCart} from '../ShoppingCart';
-import {CartActions} from '../CartActions';
+import {CartActions} from '../receiver/CartActions';
 import {Item} from '../Domain';
 
 export type ItemAction<T extends Item> = (item: T) => void
