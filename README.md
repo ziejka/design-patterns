@@ -2,8 +2,8 @@
 
 This is an educational purpose project to create the closest to real-life possibilities for implementing given design pattern
 
-## Command Patter
-Command pattern task description and premises [here](/src/CommandPattern/README.md) 
+## List of Patters
+  1. Command pattern task description and premises [here](/src/CommandPattern/README.md) 
 
 ## Available Scripts
 
