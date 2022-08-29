@@ -1,6 +1,6 @@
 # Design Patters examples with React
 
-This is an educational purpose project to create the closest to real-life possibilities for implementing given design pattern
+This is an educational purpose project to create the closest to real-life possibilities for implementing given design pattern using TypeScript and React
 
 ## List of Patters
   1. Command pattern task description and premises [here](/src/CommandPattern/README.md) 
